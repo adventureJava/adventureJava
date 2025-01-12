@@ -3,8 +3,8 @@
 <br>
 <h2>팀 프로젝트</h2> <br>
 <a href="https://github.com/adventureJava/musical_proj">뮤지컬 예매 사이트(리액트 코드 포함 내가 맡은 파트만, 2024.08~2024.09)</a><br><br>
-<a href="https://github.com/rlaalstlr09/Musical">뮤지컬 예매 사이트(2024.08~2024.09)</a>
-<a href="https://github.com/octfairReact/octfair2">채용박람회 프론트엔드 JSP->React converting 프로젝트 (2024.11~2024.12)</a>
+<a href="https://github.com/rlaalstlr09/Musical">뮤지컬 예매 사이트(2024.08~2024.09)</a><br><br>
+<a href="https://github.com/octfairReact/octfair2">채용박람회 프론트엔드 JSP->React converting 프로젝트 (2024.11~2024.12)</a><br><br>
 <a href="https://github.com/VuehappyJob20241219/octfair3">채용박람회 프론트엔드 JSP->Vue converting 프로젝트 (2024.12~2025.01)</a>
 <br>
 <br>
